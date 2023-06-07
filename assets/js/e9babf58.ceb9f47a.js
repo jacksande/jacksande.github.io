@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjacksresearch=self.webpackChunkjacksresearch||[]).push([[425],{6257:e=>{e.exports=JSON.parse('{"title":"LDS","description":"Latter Day Saints","slug":"/category/lds","permalink":"/category/lds","navigation":{"previous":{"title":"Atheism","permalink":"/atheism/"},"next":{"title":"Foundational Issues","permalink":"/lds/foundational-issues"}}}')}}]);
